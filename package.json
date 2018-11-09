@@ -2,7 +2,7 @@
   "name": "friendsFinder",
   "version": "1.0.0",
   "description": "",
-  "main": "friends.js",
+  "main": "app/data/friends.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
